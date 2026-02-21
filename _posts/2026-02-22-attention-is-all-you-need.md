@@ -1,6 +1,6 @@
 ---
 title: "[논문 리뷰] Attention Is All You Need (2017)"
-date: 2026-02-22 09:00:00 +0900
+date: 2026-02-21 09:00:00 +0900
 categories: [Paper Review, NLP]
 tags: [transformer, attention, nlp, self-attention, encoder-decoder]
 math: true
